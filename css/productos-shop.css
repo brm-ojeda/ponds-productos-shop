@@ -488,7 +488,7 @@ h3 {
 }
 
 .cont-btn-carga {
-	margin: 4rem 0 7rem;
+	margin: 4rem 0 5rem;
 	text-align: center;
 	width: 100%;
 }
@@ -730,11 +730,11 @@ h3 {
 	}
 
 	.cont-btn-carga {
-		margin: 2rem 0;
+		margin: 2rem 0 7rem;
 	}
 
 	.cont-btn-carga a {
-		padding: 0.8em 4.5em;
+		padding: 0.8em 5.5em;
 	}
 }
 
@@ -794,7 +794,7 @@ h3 {
 
 @media (max-width: 375px) {
 	.cont-btn-carga a {
-		padding: 0.8em 3.2em;
+		padding: 0.8em 4.2em;
 	}
 }
 
@@ -816,7 +816,7 @@ h3 {
 	}
 
 	.cont-btn-carga a {
-		padding: 0.8em 2.7em;
+		padding: 0.8em 3.7em;
 	}
 }
 
