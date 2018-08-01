@@ -41,7 +41,7 @@ header{
 .cont-filtro h3 {
 	display: inline-block;
 	font-family: 'effralight';
-	font-size: 20px;
+	font-size: 20px!important;
 	font-weight: 600;
 	margin: 0;
 	padding-top: 0.4em;
@@ -69,7 +69,7 @@ header{
 	cursor: pointer;
 	float: left;
 	font-family: 'effralight';
-	font-size: 15px;
+	font-size: 15px!important;
 	font-weight: 600;
 	list-style: none;
 	padding: 0em 1.4em;
@@ -206,7 +206,7 @@ header{
 .cont-img .etiqueta-cant p {
 	color: #fff;
 	font-family: 'effralight';
-	font-size: 1.3em;
+	font-size: 1.3em !important;
 	font-weight: 600;
 	margin: 0;
 }
@@ -267,8 +267,8 @@ header{
 .cont-img .caract .cont-caract .text-p p {
 	color: #fff;
 	font-family: 'effralight';
-	font-size: 1em;
-	line-height: 1em;
+	font-size: 1em !important;
+	line-height: 1em !important
 }
 
 .cont-img .caract .cont-caract .text-t {
@@ -279,7 +279,7 @@ header{
 .cont-img .caract .cont-caract .text-t p {
 	color: #fff;
 	font-family: 'effralight';
-	font-size: 1.1em;
+	font-size: 1.1em !important;
 	line-height: 1.2em;
 	text-transform: uppercase;
 }
@@ -295,7 +295,7 @@ header{
 .cont-img .caract .cont-caract .list-cont ul li {
 	color: #dcddde;
 	font-family: 'effralight';
-	font-size: 0.9em;
+	font-size: 0.9em !important;
 	letter-spacing: 0.1em;
 	line-height: 1em;
 	margin-top: 5%;
@@ -314,7 +314,7 @@ header{
 .cont-img .caract .cont-caract .legales-pro p {
 	color: #dcddde;
 	font-family: 'effralight';
-	font-size: 0.8em;
+	font-size: 0.8em !important;
 	letter-spacing: 0.1em;
 	line-height: 1em;
 	padding: 0 0.3em;
@@ -425,7 +425,7 @@ header{
 
 .cont-descripcion .nombre-kit h5 {
 	font-family: 'effraregular';
-	font-size: 21px;
+	font-size: 21px!important;
 	font-weight: 600;
 	line-height: 20px;
 	margin-bottom: 0;
@@ -440,7 +440,7 @@ header{
 
 .cont-descripcion .nombre-producto h5 {
 	font-family: 'effraregular';
-	font-size: 17px;
+	font-size: 17px !important;
 	line-height: 16px;
 	margin-bottom: 0;
 	margin-top: 10px;
@@ -494,7 +494,7 @@ header{
 	box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.15);
 	color: #fff;
 	display: block;
-	font-size: 16px;
+	font-size: 16px !important;
 	font-weight: bold;
 	letter-spacing: 1px;
 	padding: 0.1em;
@@ -519,7 +519,7 @@ header{
 	border-radius: 0.7rem;
 	color: #fff;
 	cursor: pointer;
-	font-size: 16px;
+	font-size: 16px !important;
 	letter-spacing: 0.1rem;
 	padding: 0.7em 3.5em;
 	text-decoration: none;
@@ -537,7 +537,7 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas p {
-		font-size: 1.1em;
+		font-size: 1.1em !important;
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas a {
@@ -545,13 +545,13 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-cant .und p {
-		font-size: 1.1em;
+		font-size: 1.1em !important;
 	}
 }
 
 @media (max-width: 1067px) {
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 		padding-top: 0.3em;
 	}
 
@@ -560,13 +560,13 @@ header{
 	}
 
 	.cont-nav-filt ul li {
-		font-size: 1em;
+		font-size: 1em !important;
 	}
 }
 
 @media (max-width: 1013px) {
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 	}
 
 	.cont-nav-filt {
@@ -574,14 +574,14 @@ header{
 	}
 
 	.cont-nav-filt ul li {
-		font-size: 1em;
+		font-size: 1em !important;
 		padding: 0.5em 1em;
 	}
 }
 
 @media (max-width: 991px) {
 	.cont-descripcion .acciones .btn-caracteristicas p {
-		font-size: 1.2em;
+		font-size: 1.2em !important;
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas a {
@@ -589,13 +589,13 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-cant .und p {
-		font-size: 1.2em;
+		font-size: 1.2em !important;
 	}
 }
 
 @media (max-width: 894px) {
 	.cont-filtro h3 {
-		font-size: 1.3em;
+		font-size: 1.3em !important;
 	}
 
 	.cont-nav-filt {
@@ -603,7 +603,7 @@ header{
 	}
 
 	.cont-nav-filt ul li {
-		font-size: 0.9em;
+		font-size: 0.9em !important;
 		padding: 0.5em 0.8em;
 	}
 }
@@ -626,7 +626,7 @@ header{
 	}
 
 	.cont-filtro h3 {
-		font-size: 1.6em;
+		font-size: 1.6em !important;
 		padding-bottom: 0;
 		padding-top: 1em;
 	}
@@ -654,7 +654,7 @@ header{
 		color: #20b7c8;
 		display: inline-block;
 		font-family: 'effralight';
-		font-size: 1.5em;
+		font-size: 1.5em !important;
 		font-weight: 600;
 		margin: 0;
 		margin-left: 0.1em;
@@ -683,7 +683,7 @@ header{
 		border-bottom: 1px solid #e6e7e8;
 		border-right: none;
 		float: none;
-		font-size: 1.3em;
+		font-size: 1.3em !important;
 		padding: 0.7em 1.5em;
 	}
 
@@ -712,7 +712,7 @@ header{
 	}
 
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 	}
 
 	.cont-filtro span {
@@ -747,7 +747,7 @@ header{
 	}
 
 	.cont-descripcion .nombre-producto h5 {
-		font-size: 1.5em;
+		font-size: 1.5em !important;
 	}
 
 	.cont-btn-carga {
@@ -785,7 +785,7 @@ header{
 	}
 
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 	}
 
 	.cont-filtro span {
@@ -807,7 +807,7 @@ header{
 	}
 
 	.cont-filtro span h4 {
-		font-size: 1.3em;
+		font-size: 1.3em !important;
 		padding: 0.3em 0 0 0;
 		width: 78%;
 	}
@@ -847,12 +847,12 @@ header{
 	}
 
 	.cont-nav-filt ul li {
-		font-size: 1.1em;
+		font-size: 1.1em !important;
 		padding: 0.7em 1em;
 	}
 
 	.cont-filtro span h4 {
-		font-size: 1.2em;
+		font-size: 1.2em !important;
 	}
 
 	.cont-btn-carga a {
