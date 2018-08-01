@@ -105,7 +105,7 @@ $(document).ready(function() {
 
 });
 
-	var alto = document.getElementsByClassName('menu-principal')
+	var alto_hd = document.getElementsByClassName('menu-principal')
 		console.log('Medir alto')
 
 
