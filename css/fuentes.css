@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'effraheavy';
+    src: url('../fuentes/dalton_maag_-_effra_heavy-webfont.woff2') format('woff2'),
+         url('../fuentes/dalton_maag_-_effra_heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'effralight';
+    src: url('../fuentes/dalton_maag_-_effra_light-webfont.woff2') format('woff2'),
+         url('../fuentes/dalton_maag_-_effra_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'efframedium';
+    src: url('../fuentes/dalton_maag_-_effra_medium-webfont.woff2') format('woff2'),
+         url('../fuentes/dalton_maag_-_effra_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'effraregular';
+    src: url('../fuentes/dalton_maag_-_effra-webfont.woff2') format('woff2'),
+         url('../fuentes/dalton_maag_-_effra-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
