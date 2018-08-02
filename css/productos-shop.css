@@ -95,7 +95,7 @@ header{
 }
 
 .cont-nav-filt ul li .filt-active:before {
-	content: url("../images/ico-simbolo-filt.svg");
+	content: url("../images/shop/ico-simbolo-filt.svg");
 	float: left;
 	height: 1.5em;
 	margin: 0.4em 0.3em 0 0;
