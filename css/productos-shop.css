@@ -43,7 +43,7 @@ header{
 .cont-filtro h3 {
 	display: inline-block;
 	font-family: 'effralight';
-	font-size: 20px;
+	font-size: 20px!important;
 	font-weight: 600;
 	margin: 0;
 	padding-top: 0.4em;
@@ -71,7 +71,7 @@ header{
 	cursor: pointer;
 	float: left;
 	font-family: 'effralight';
-	font-size: 15px;
+	font-size: 15px!important;
 	font-weight: 600;
 	list-style: none;
 	padding: 0em 1.4em;
@@ -208,7 +208,11 @@ header{
 .cont-img .etiqueta-cant p {
 	color: #fff;
 	font-family: 'effralight';
+<<<<<<< HEAD
 	font-size: 17px !important;
+=======
+	font-size: 1.3em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	font-weight: 600;
 	margin: 0;
 }
@@ -273,8 +277,13 @@ header{
 .cont-img .caract .cont-caract .text-p p {
 	color: #fff;
 	font-family: 'effralight';
+<<<<<<< HEAD
 	font-size: 13.5px !important;
 	line-height: 14px !important;
+=======
+	font-size: 1em !important;
+	line-height: 1em !important
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 }
 
 .cont-img .caract .cont-caract .text-t {
@@ -287,9 +296,14 @@ header{
 .cont-img .caract .cont-caract .text-t p {
 	color: #fff;
 	font-family: 'effralight';
+<<<<<<< HEAD
 	font-size: 14px !important;
 	line-height: 14px !important;
 	text-align: center;
+=======
+	font-size: 1.1em !important;
+	line-height: 1.2em;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	text-transform: uppercase;
 }
 
@@ -305,7 +319,11 @@ header{
 .cont-img .caract .cont-caract .list-cont ul li {
 	color: #dcddde;
 	font-family: 'effralight';
+<<<<<<< HEAD
 	font-size: 11.5px;
+=======
+	font-size: 0.9em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	letter-spacing: 0.1em;
 	line-height: 12px;
 	margin-top: 5%;
@@ -329,7 +347,11 @@ header{
 .cont-img .caract .cont-caract .legales-pro p {
 	color: #dcddde;
 	font-family: 'effralight';
+<<<<<<< HEAD
 	font-size: 11px !important;
+=======
+	font-size: 0.8em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	letter-spacing: 0.1em;
 	line-height: 11px !important;
 	padding: 0 0.3em;
@@ -440,7 +462,7 @@ header{
 
 .cont-descripcion .nombre-kit h5 {
 	font-family: 'effraregular';
-	font-size: 21px;
+	font-size: 21px!important;
 	font-weight: 600;
 	line-height: 20px;
 	margin-bottom: 0;
@@ -455,7 +477,7 @@ header{
 
 .cont-descripcion .nombre-producto h5 {
 	font-family: 'effraregular';
-	font-size: 17px;
+	font-size: 17px !important;
 	line-height: 16px;
 	margin-bottom: 0;
 	margin-top: 10px;
@@ -509,7 +531,7 @@ header{
 	box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.15);
 	color: #fff;
 	display: block;
-	font-size: 16px;
+	font-size: 16px !important;
 	font-weight: bold;
 	letter-spacing: 1px;
 	padding: 0.1em;
@@ -534,7 +556,7 @@ header{
 	border-radius: 0.7rem;
 	color: #fff;
 	cursor: pointer;
-	font-size: 16px;
+	font-size: 16px !important;
 	letter-spacing: 0.1rem;
 	padding: 0.7em 3.5em;
 	text-decoration: none;
@@ -552,7 +574,11 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas p {
+<<<<<<< HEAD
 		font-size: 15px !important;
+=======
+		font-size: 1.1em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas a {
@@ -567,7 +593,11 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-cant .und p {
+<<<<<<< HEAD
 		font-size: 15px !important;
+=======
+		font-size: 1.1em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
@@ -581,8 +611,13 @@ header{
 	}
 
 	.cont-filtro h3 {
+<<<<<<< HEAD
 		font-size: 19px;
 		padding-top: 0.4em;
+=======
+		font-size: 1.4em !important;
+		padding-top: 0.3em;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-nav-filt {
@@ -590,13 +625,21 @@ header{
 	}
 
 	.cont-nav-filt ul li {
+<<<<<<< HEAD
 		font-size: 13.5px;
+=======
+		font-size: 1em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
 @media (max-width: 1013px) {
 	.cont-filtro h3 {
+<<<<<<< HEAD
 		font-size: 19px;
+=======
+		font-size: 1.4em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-nav-filt {
@@ -604,14 +647,23 @@ header{
 	}
 
 	.cont-nav-filt ul li {
+<<<<<<< HEAD
 		font-size: 13px;
 		padding: 0em 1em;
+=======
+		font-size: 1em !important;
+		padding: 0.5em 1em;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
 @media (max-width: 991px) {
 	.cont-descripcion .acciones .btn-caracteristicas p {
+<<<<<<< HEAD
 		font-size: 17px !important;
+=======
+		font-size: 1.2em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-descripcion .acciones .btn-caracteristicas a {
@@ -627,13 +679,21 @@ header{
 	}
 
 	.cont-descripcion .acciones .btn-cant .und p {
+<<<<<<< HEAD
 		font-size: 17px !important;
+=======
+		font-size: 1.2em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
 @media (max-width: 894px) {
 	.cont-filtro h3 {
+<<<<<<< HEAD
 		font-size: 18px;
+=======
+		font-size: 1.3em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-nav-filt {
@@ -641,8 +701,13 @@ header{
 	}
 
 	.cont-nav-filt ul li {
+<<<<<<< HEAD
 		font-size: 12px;
 		padding: 0em 0.7em;
+=======
+		font-size: 0.9em !important;
+		padding: 0.5em 0.8em;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
@@ -686,10 +751,14 @@ header{
 	}
 
 	.cont-filtro h3 {
+<<<<<<< HEAD
 		display: block;
 		float: left;
 		font-size: 20px;
 		margin: auto 3%;
+=======
+		font-size: 1.6em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 		padding-bottom: 0;
 		padding-top: 0.3em;
 		position: relative;
@@ -726,7 +795,11 @@ header{
 		display: inline-block;
 		float: left;
 		font-family: 'effralight';
+<<<<<<< HEAD
 		font-size: 19px;
+=======
+		font-size: 1.5em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 		font-weight: 600;
 		margin: 0;
 		margin-left: 0.1em;
@@ -756,7 +829,11 @@ header{
 		border-bottom: 1px solid #e6e7e8;
 		border-right: none;
 		float: none;
+<<<<<<< HEAD
 		font-size: 20px;
+=======
+		font-size: 1.3em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 		padding: 0.7em 1.5em;
 	}
 
@@ -797,7 +874,7 @@ header{
 	}
 
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 	}
 
 	.cont-filtro span {
@@ -833,8 +910,12 @@ header{
 	}
 
 	.cont-descripcion .nombre-producto h5 {
+<<<<<<< HEAD
 		font-size: 21px;
 		line-height: 20px;
+=======
+		font-size: 1.5em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-btn-carga {
@@ -868,7 +949,7 @@ header{
 	}
 
 	.cont-filtro h3 {
-		font-size: 1.4em;
+		font-size: 1.4em !important;
 	}
 
 	.cont-filtro span {
@@ -890,6 +971,7 @@ header{
 	}
 
 	.cont-filtro span h4 {
+<<<<<<< HEAD
 		font-size: 18px;
 		padding: 0.4em 0 0 0.2em;
 		width: 77%;
@@ -901,6 +983,11 @@ header{
 
 	.cont-nav-filt ul li {
 		font-size: 18px;
+=======
+		font-size: 1.3em !important;
+		padding: 0.3em 0 0 0;
+		width: 78%;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 }
 
@@ -946,6 +1033,7 @@ header{
 	}
 
 	.cont-nav-filt ul li {
+<<<<<<< HEAD
 		font-size: 18px;
 		padding: 0.3em 1em;
 	}
@@ -958,6 +1046,14 @@ header{
 		font-size: 15px;
 		padding: 0.4em 0 0 0.2em;
 		width: 75%;
+=======
+		font-size: 1.1em !important;
+		padding: 0.7em 1em;
+	}
+
+	.cont-filtro span h4 {
+		font-size: 1.2em !important;
+>>>>>>> 8ffd8adf4ef3998c21bfd0ceb831bcd032431575
 	}
 
 	.cont-btn-carga a {
